@@ -1,0 +1,6 @@
+[submodule "Engine/vendor/spdlog"]
+	path = Engine/vendor/spdlog
+	url = git@github.com:gabime/spdlog.git
+[submodule "modules/CMakePCHCompiler"]
+	path = modules/CMakePCHCompiler
+	url = git@github.com:nanoant/CMakePCHCompiler.git
