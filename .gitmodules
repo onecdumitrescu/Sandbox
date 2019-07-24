@@ -4,3 +4,6 @@
 [submodule "modules/CMakePCHCompiler"]
 	path = modules/CMakePCHCompiler
 	url = git@github.com:nanoant/CMakePCHCompiler.git
+[submodule "Engine/vendor/glfw"]
+	path = Engine/vendor/glfw
+	url = git@github.com:glfw/glfw.git
